@@ -1,21 +1,22 @@
 {
-  "name": "matrix-bot-sdk-bot-template",
+  "name": "Jeeves",
   "version": "0.1.0",
-  "author": "TravisR",
+  "author": "Ac3Tec",
   "license": "Apache-2.0",
-  "description": "A template repository for bots made with the matrix-bot-sdk",
+  "description": "Your matrix butler",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turt2live/matrix-bot-sdk-bot-template.git"
+    "url": "git+https://github.com/Ac3Tec/jeeves.git"
   },
   "bugs": {
-    "url": "https://github.com/turt2live/matrix-bot-sdk-bot-template/issues"
+    "url": "https://github.com/Ac3Tec/jeeves/issues"
   },
-  "homepage": "https://github.com/turt2live/matrix-bot-sdk-bot-template#readme",
+  "homepage": "https://github.com/Ac3Tec/jeeves#readme",
   "keywords": [
     "matrix",
     "bot",
-    "template"
+    "jeeves",
+    "butler"
   ],
   "main": "lib/index.js",
   "scripts": {
